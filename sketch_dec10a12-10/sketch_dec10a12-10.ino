@@ -162,16 +162,82 @@ pinMode(lPin,OUTPUT);
 void loop() {
   String a="hello";
   for(int i=0; i<a.length(); i++) {
-    if(a[i]=='h'||a[i]=='H') {
+    if(a[i]=='a'||a[i]=='A') {
       letterH();
     }
-    if(a[i]=='e'||a[i]=='E') {
+    if(a[i]=='b'||a[i]=='B') {
       letterE();
     }
-    if(a[i]=='l'||a[i]=='L') {
+    if(a[i]=='c'||a[i]=='C') {
       letterL();
     }
+    if(a[i]=='d'||a[i]=='D') {
+      letterO();
+    }
+    if(a[i]=='e'||a[i]=='E') {
+      letterH();
+    }
+    if(a[i]=='f'||a[i]=='F') {
+      letterE();
+    }
+    if(a[i]=='g'||a[i]=='G') {
+      letterL();
+    }
+    if(a[i]=='h'||a[i]=='H') {
+      letterO();
+    }
+    if(a[i]=='i'||a[i]=='I') {
+      letterH();
+    }
+    if(a[i]=='j'||a[i]=='J') {
+      letterE();
+    }
+    if(a[i]=='k'||a[i]=='K') {
+      letterL();
+    }
+    if(a[i]=='l'||a[i]=='L') {
+      letterO();
+    }
+    if(a[i]=='m'||a[i]=='M') {
+      letterH();
+    }
+    if(a[i]=='n'||a[i]=='N') {
+      letterE();
+    }
     if(a[i]=='o'||a[i]=='O') {
+      letterL();
+    }
+    if(a[i]=='p'||a[i]=='P') {
+      letterO();
+    }
+    if(a[i]=='q'||a[i]=='Q') {
+      letterH();
+    }
+    if(a[i]=='r'||a[i]=='R') {
+      letterE();
+    }
+    if(a[i]=='s'||a[i]=='S') {
+      letterL();
+    }
+    if(a[i]=='t'||a[i]=='T') {
+      letterO();
+    }
+    if(a[i]=='u'||a[i]=='U') {
+      letterL();
+    }
+    if(a[i]=='v'||a[i]=='V') {
+      letterO();
+    }
+    if(a[i]=='w'||a[i]=='W') {
+      letterH();
+    }
+    if(a[i]=='x'||a[i]=='X') {
+      letterE();
+    }
+    if(a[i]=='y'||a[i]=='Y') {
+      letterL();
+    }
+    if(a[i]=='z'||a[i]=='Z') {
       letterO();
     }
   }
