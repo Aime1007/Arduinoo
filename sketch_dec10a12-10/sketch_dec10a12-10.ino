@@ -163,82 +163,82 @@ void loop() {
   String a="hello";
   for(int i=0; i<a.length(); i++) {
     if(a[i]=='a'||a[i]=='A') {
-      letterH();
+      letterA();
     }
     if(a[i]=='b'||a[i]=='B') {
-      letterE();
+      letterB();
     }
     if(a[i]=='c'||a[i]=='C') {
-      letterL();
+      letterC();
     }
     if(a[i]=='d'||a[i]=='D') {
-      letterO();
+      letterD();
     }
     if(a[i]=='e'||a[i]=='E') {
-      letterH();
+      letterE();
     }
     if(a[i]=='f'||a[i]=='F') {
-      letterE();
+      letterF();
     }
     if(a[i]=='g'||a[i]=='G') {
-      letterL();
+      letterG();
     }
     if(a[i]=='h'||a[i]=='H') {
-      letterO();
+      letterH();
     }
     if(a[i]=='i'||a[i]=='I') {
-      letterH();
+      letterI();
     }
     if(a[i]=='j'||a[i]=='J') {
-      letterE();
+      letterJ();
     }
     if(a[i]=='k'||a[i]=='K') {
-      letterL();
+      letterK();
     }
     if(a[i]=='l'||a[i]=='L') {
-      letterO();
+      letterL();
     }
     if(a[i]=='m'||a[i]=='M') {
-      letterH();
+      letterM();
     }
     if(a[i]=='n'||a[i]=='N') {
-      letterE();
+      letterN();
     }
     if(a[i]=='o'||a[i]=='O') {
-      letterL();
+      letterO();
     }
     if(a[i]=='p'||a[i]=='P') {
-      letterO();
+      letterP();
     }
     if(a[i]=='q'||a[i]=='Q') {
-      letterH();
+      letterQ();
     }
     if(a[i]=='r'||a[i]=='R') {
-      letterE();
+      letterR();
     }
     if(a[i]=='s'||a[i]=='S') {
-      letterL();
+      letterS();
     }
     if(a[i]=='t'||a[i]=='T') {
-      letterO();
+      letterT();
     }
     if(a[i]=='u'||a[i]=='U') {
-      letterL();
+      letterU();
     }
     if(a[i]=='v'||a[i]=='V') {
-      letterO();
+      letterV();
     }
     if(a[i]=='w'||a[i]=='W') {
-      letterH();
+      letterW();
     }
     if(a[i]=='x'||a[i]=='X') {
-      letterE();
+      letterX();
     }
     if(a[i]=='y'||a[i]=='Y') {
-      letterL();
+      letterY();
     }
     if(a[i]=='z'||a[i]=='Z') {
-      letterO();
+      letterZ();
     }
   }
   delay(2000);
